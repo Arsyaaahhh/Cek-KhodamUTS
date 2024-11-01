@@ -22,13 +22,13 @@ function cekKhodam() {
     Xiaomi: "images/xiaomi.jpg",
     "Kak Gem": "images/kakgem.jpg",
     "Kapal Laut": "images/kapal.jpg",
-    // Kucing: "/images/kucing.jpg",
+    Kucing: "/images/kucing.jpg",
     Bandeng: "/images/bandeng.jpg",
     "Bryant Karbu": "/images/bryant-karbu.jpg",
   };
 
   const khodamSounds = {
-    // Kucing: "musik-asik/singa.mp3",
+    Kucing: "musik-asik/singa.mp3",
     "Kak Gem": "musik-asik/kak-gem-paham.mp3",
     "Kapal Laut": "musik-asik/budiono-siregar.mp3",
     Bandeng: "musik-asik/bandeng.mp3",
