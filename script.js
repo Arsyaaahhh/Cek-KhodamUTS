@@ -62,13 +62,12 @@ function cekKhodam() {
   document.getElementById("khodamBox").style.display = "block";
 }
 
-// Fungsi untuk menutup box khodam dan kembali ke tampilan awal
+
 function closeKhodamBox() {
   document.getElementById("khodamBox").style.display = "none";
   document.querySelector(".container").style.display = "block";
 }
 
-// Menunggu hingga dokumen siap sebelum menerapkan efek Vanta Waves
 document.addEventListener("DOMContentLoaded", function () {
   VANTA.WAVES({
     el: "#background",
